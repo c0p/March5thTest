@@ -1,3 +1,62 @@
-p {
+
+h2 {
+	font-size:130%;
+}
+
+#First {
 	color:red;
+	border: 5px black solid;
+	padding:10px;
+	margin-bottom: 3em;
+	text-align:center;
+}
+
+
+#First h2 {
+	color:brown;
+	font-size: 50px;
+}
+
+
+#Second {
+	text-align:center;
+	color:rgb(210, 5, 10);
+	border: 5px black dotted;
+	padding:10px;
+	margin-bottom: 3em;
+}
+
+#Second h2 {
+	color:black;
+	font-size: 45px;
+}
+
+#Third {
+	color:rgb(210, 5, 10);
+	border: 5px black dashed;
+	padding:10px;
+	margin-top:100px;
+	margin-bottom: 3em;
+}
+
+#Third h2 {
+	text-decoration: underline;
+	font-size: 40px;
+}
+
+#fourth p {
+	font-family:Arial;
+	font-size:20px;
+}
+
+#fourth {
+	margin-top:100px;
+	border: 5px black solid;
+	font-family:Arial;
+	font-size:20px;
+	padding:20px;
+}
+
+#list {
+	text-decoration: underline;
 }
